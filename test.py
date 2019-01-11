@@ -1,4 +1,4 @@
-"This is a Tic Tac Toe program"
+"This is a Tic Tac Toe programme"
 def tic_tac_toe():
     board = [None] + list(range(1, 10))
     WIN_COMBINATIONS = [
